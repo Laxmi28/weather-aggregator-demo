@@ -1,7 +1,5 @@
-# app/clients/weather_clients.py
-
 import httpx
-from fallback.fallback import (
+from fallbacks.fallback import (
     wttr_fallback,
     open_meteo_fallback,
     go_weather_fallback

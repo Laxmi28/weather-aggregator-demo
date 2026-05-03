@@ -1,5 +1,3 @@
-# app/routes/weather.py
-
 from fastapi import APIRouter, Query
 
 from core.logger import logger

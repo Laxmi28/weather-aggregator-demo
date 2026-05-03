@@ -1,4 +1,3 @@
-# app/service/weather_service.py
 from core.logger import logger
 
 from clients.weather_clients import (
